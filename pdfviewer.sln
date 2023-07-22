@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdfviewer", "pdfviewer\pdfviewer.csproj", "{C884E83F-78B4-485D-B14B-6EF6813C6EB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C884E83F-78B4-485D-B14B-6EF6813C6EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C884E83F-78B4-485D-B14B-6EF6813C6EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C884E83F-78B4-485D-B14B-6EF6813C6EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C884E83F-78B4-485D-B14B-6EF6813C6EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B9BEEC-79A4-474B-ABA1-DAF5A083E00E}
+	EndGlobalSection
+EndGlobal
